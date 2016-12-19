@@ -1,0 +1,15 @@
+﻿Сборка начата 28.11.2016 16:08:36.
+     1>Проект "E:\3семестр\laba#13\Window\Window\Window.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Window.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Window.cpp
+         Window.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\3семестр\laba#13\Window\Debug\Window.exe" /INCREMENTAL /NOLOGO "E:\3семестр\laba#13\Window\Debug\MyDLL.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\3семестр\laba#13\Window\Debug\Window.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\3семестр\laba#13\Window\Debug\Window.lib" /MACHINE:X86 Debug\Window.res
+         Debug\stdafx.obj
+         Debug\Window.obj
+         Window.vcxproj -> E:\3семестр\laba#13\Window\Debug\Window.exe
+     1>Сборка проекта "E:\3семестр\laba#13\Window\Window\Window.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.52
